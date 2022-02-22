@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x57928f060910f9f7714fD545969e152Dd3655C28",
+  "SCAN_LINK": "https://etherscan.io/0x57928f060910f9f7714fD545969e152Dd3655C28",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Sup Ape Yacht Club",
+  "SYMBOL": "SAYC",
+  "MAX_SUPPLY": 8888,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
